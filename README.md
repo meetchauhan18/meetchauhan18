@@ -7,7 +7,6 @@ I'm a passionate software developer with a keen interest in building efficient a
 - 🤔 I’m looking for help with **MongoDB, Express.js, React.js, and Node.js**.
 - 💬 Ask me about **React.js**.
 - 📫 How to reach me: **chauhanmeet1803@gmail.com**.
-- ⚡ Fun fact: I once built a working replica of a classic arcade game from scratch using the MERN stack!
   
 ### 🛠️ Languages and Tools:
 
