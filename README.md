@@ -10,7 +10,7 @@ I specialize in <strong>React.js, Node.js, Express.js, MongoDB</strong> and love
 
 ## 🚀 About Me
 
-- 🔭 Currently working at **Maven Regtech Pvt Ltd** as a MERN Stack Intern  
+- 🔭 Worked at **Maven Regtech Pvt Ltd** as a MERN Stack Intern  
 - 🌱 Growing expertise in **full-stack development, scalable architectures, and real-time systems**  
 - 💡 Passionate about **clean code, UI/UX consistency, performance optimization, and reusable architecture**  
 - 🤝 Open to collaborating on **full-stack, SaaS, and enterprise-grade projects**  
